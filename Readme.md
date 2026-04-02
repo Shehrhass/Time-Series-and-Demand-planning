@@ -6,7 +6,7 @@ Five models compared: XGBoost, Prophet, ARIMA, Linear Regression, and a Weighted
 
 ## Dataset
 Transaction-level coffee shop sales data (~3,600 records).
-Source: https://github.com/Shehrhass/Time-Series-and-Demand-planning/index_1.csv
+Source: https://github.com/Shehrhass/Time-Series-and-Demand-planning/blob/main/index_1.csv
 
 
 ## How to Run
